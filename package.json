@@ -1,0 +1,21 @@
+{
+  "name": "yo-express",
+  "version": "0.1.0",
+  "description": "A server using express + typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@YoSoloPersona/yo-express"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "nodejs",
+    "docker"
+  ],
+  "author": "Yolik",
+  "license": "ISC"
+}
